@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492598525 source:c:\users\admin\documents\codechef\k-medoids\main.cpp
+	<bits/stdc++.h>
+	<float.h>
+	<conio.h>
+	<string>
+
